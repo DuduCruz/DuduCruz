@@ -24,8 +24,6 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-- uses: Platane/snk@v3
-  with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
     github_user_name: ${{ github.repository_owner }}
