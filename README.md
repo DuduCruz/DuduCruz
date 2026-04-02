@@ -2,7 +2,7 @@
 
 
 
-- 👷‍♂️ I’m currently working at **Grupo Plaenge**
+- 👷‍♂️ I’m currently working at **Grupo Laguna**
 
 - 🌱 I’m currently learning **Data Science**
 
