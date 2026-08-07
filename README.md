@@ -2,9 +2,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently deep learning **Data Analytics**
 
-- ⚡ Fun fact **I love to play video games, read and play some guitar!**
+- ⚡ Fun fact **I love lord of the rings! "My Friends, you bow to no one!"**
 
 
 
